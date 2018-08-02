@@ -5,4 +5,17 @@
 	{
 		echo $i.' Hola yo soy Pipo';
 	}
+
+	$sofia = 1;
+	$nahuel = 2;
+
+	if($sofia < $nahuel)
+	{
+		echo 'chorizo';
+	}
+
+	else
+	{
+		echo 'morcilla';
+	}
 ?>
